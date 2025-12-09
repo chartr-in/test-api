@@ -37952,8 +37952,8 @@
       "lat": 28.620071,
       "lng": 77.301071,
       "name": "East Vinod Nagar Depot",
-      "next_stop": "Mayur Vihar Phase-II Terminal / Mayur Vihar Ph-2 Metro Station / Mayur Vihar Phase 2 Pkt C Metro",
-      "type": "bus"Station"
+      "next_stop": "Mayur Vihar Phase-II Terminal / Mayur Vihar Ph-2 Metro Station / Mayur Vihar Phase 2 Pkt C Metro Station",
+      "type": "bus"
     },
     {
       "id": "5709",
@@ -58248,8 +58248,8 @@
       "lat": 28.620239,
       "lng": 77.301582,
       "name": "Mayur Vihar Phase-II Pocket-A",
-      "next_stop": "Mayur Vihar Phase-II Terminal / Mayur Vihar Ph-2 Metro Station / Mayur Vihar Phase 2 Pkt C Metro ,
-      "type": "bus"Station"
+      "next_stop": "Mayur Vihar Phase-II Terminal / Mayur Vihar Ph-2 Metro Station / Mayur Vihar Phase 2 Pkt C Metro Station",
+      "type": "bus"
     },
     {
       "id": "8915",
